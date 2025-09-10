@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Go E-commerce Frontend",
+  "description": "A modern React frontend for the Go e-commerce platform, designed to interact with the specified Go backend. It features product browsing, detailed product views, cart management, and a simulated checkout process, all built with React, TypeScript, and Tailwind CSS for a premium user experience.",
+  "requestFramePermissions": []
+}
